@@ -1,0 +1,9 @@
+# General
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*~
